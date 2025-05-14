@@ -1,7 +1,6 @@
 ## Hi there 👋
 #### I'm Choi SeungJun. Aspiring Game Developer.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123fish)](https://solved.ac/123fish/)
 
 📝 [Velog@123fish](https://velog.io/@123fish)
 
@@ -15,3 +14,5 @@
 #### Others
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-2b303a?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123fish)](https://solved.ac/123fish/)
