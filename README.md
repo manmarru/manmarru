@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm Choi SeungJun. Aspiring Game Developer.
 
-
+📚 [Portfolio](https://github.com/manmarru/Portfolio)  
 📝 [Velog@123fish](https://velog.io/@123fish)
 
 ### Tech Stack
