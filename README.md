@@ -1,4 +1,3 @@
-## Hi there 👋
 #### I'm Choi SeungJun. Aspiring Game Developer.
 
 ### 📚 [Portfolio](https://github.com/manmarru/Portfolio)  
