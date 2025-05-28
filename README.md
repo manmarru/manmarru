@@ -1,4 +1,4 @@
-#### I'm Choi SeungJun. Aspiring Game Developer.
+#### 게임 개발자 최승준
 
 ### 📚 [Portfolio](https://github.com/manmarru/Portfolio)  
 ### 📝 [Velog@123fish](https://velog.io/@123fish)
