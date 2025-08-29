@@ -14,8 +14,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123fish)](https://solved.ac/123fish/)
 
 # Main Projects
+2023/09 (1주) : 이터널리턴 전적 검색기 제작  
 2024/03 (2주) : WinAPI 개인프로젝트 - Battle Chef Brigade 모작  
 2024/06 (1달) : DirectX9 팀프로젝트 - 리플이펙트 모작  
-2024/07 (3달) : DirectX11 개인프로젝트 - 이터널리턴 모작  
+2024/07 (2달) : DirectX11 개인프로젝트 - 이터널리턴 모작  
 2024/10 (2달) : DirectX11 팀프로젝트 - 아스달 연대기 모작  
 2025/08 (진행중) : Unity 서버 개인프로젝트 - 컵타워  
