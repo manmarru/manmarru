@@ -8,8 +8,8 @@ GNISoft 서버 재직중 (2025.12.03 ~ )
 <img src="https://img.shields.io/badge/csharp-8977AC?style=for-the-badge&logo=c&logoColor=white">
 #### Tools & Others
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Desktop-6e40c9?style=for-the-badge&logo=github&logoColor=white">  
-<img src="https://img.shields.io/badge/Markdown-2b303a?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">  
-<img src="https://img.shields.io/badge/mysql-D71F00?style=for-the-badge&logo=mysql&logoColor=white">  
+<img src="https://img.shields.io/badge/Markdown-2b303a?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/SSMS-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  
 
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123fish)](https://solved.ac/123fish/)
