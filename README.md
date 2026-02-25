@@ -1,7 +1,8 @@
 #### 게임 개발자 최승준
 응용수학과 학사 졸업 (2018 ~ 2024)  
 쥬신게임아카데미 게임 프로그래밍 과정 수강 (2024~2025)  
-GNISoft 서버 근무 (2025.12.03 ~ 2026.02.06)  
+<!-- GNISoft 서버 근무 (2025.12.03 ~ 2026.02.06) -->님블뉴런 클라이언트 재직중 (2026~)
+
 # STACKS
 #### Languages
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
