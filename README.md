@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/csharp-8977AC?style=for-the-badge&logo=c&logoColor=white">
 #### Tools & Others
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Desktop-6e40c9?style=for-the-badge&logo=github&logoColor=white">  
-<img src="https://img.shields.io/badge/Markdown-2b303a?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/SSMS-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  
 
    
